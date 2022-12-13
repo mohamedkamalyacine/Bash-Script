@@ -1,9 +1,9 @@
 Lab_2
 
 1. Create a script that asks for user name then send a greeting to him.
-echo "Enter your name: "
-read name
-echo "Hello $name"
+    echo "Enter your name: "
+    read name
+    echo "Hello $name"
 
 2. Create a script called s1 that calls another script s2 where:
     a. In s1 there is a variable called x, it's value 5
