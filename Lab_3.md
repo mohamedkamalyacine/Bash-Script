@@ -39,3 +39,31 @@ Note: write the mail body in a file called mtemplate.
 saved in /var/mail/username.
 ![Screenshot from 2022-12-10 15-30-55](https://user-images.githubusercontent.com/110255978/206857726-811d8348-4bfe-4291-aa02-34ed3c2c159c.png)
 
+8. Create the following menu:
+a. Press 1 to ls
+b. Press 2 to ls –a
+c. Press 3 to exit
+Using select utility then while utility.
+![Screenshot from 2022-12-13 14-02-49](https://user-images.githubusercontent.com/110255978/207313089-a582d5dc-9d42-4c66-b5a7-b82cfbf25357.png)
+
+9. Write a script called myarr that ask a user how many elements he wants to enter in an array, fill the array and then print it.
+![Screenshot from 2022-12-13 14-27-52](https://user-images.githubusercontent.com/110255978/207318123-dca1a500-9206-4e85-b382-98f5cf973e6f.png)
+
+10. Write a script called myavg that calculate average of all numbers entered by a user.
+Note: use arrays
+![Screenshot from 2022-12-13 14-54-19](https://user-images.githubusercontent.com/110255978/207323641-e3313ad8-603f-4082-ba9a-4be871997f5c.png)
+
+11. Write a function called mysq that calculate square if its argument.
+
+![Screenshot from 2022-12-13 15-04-45](https://user-images.githubusercontent.com/110255978/207325707-0ceec76e-faa7-44f4-a6cd-c00d8d865f12.png)
+
+
+
+
+
+
+
+
+
+
+
